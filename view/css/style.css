@@ -1,0 +1,61 @@
+* {
+
+    text-align: center;
+
+}
+
+.Head {
+
+    background-color: lightgrey;
+
+}
+
+.Head h3{
+
+    padding-left: 15px;
+}
+
+.tickets{
+
+    border: 1px solid;
+}
+
+.asm{
+
+    padding-bottom: 150px;
+    padding-right: 15px;
+}
+
+.mainInfos{
+
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    background-color: papayawhip;
+
+}
+
+.mainInfo1{
+    border-right: 1px solid;
+    background-color: papayawhip;
+}
+.mainInfo2{
+    background-color: lightgrey;
+
+}
+
+
+
+.pav{
+
+    margin: 0 auto;
+}
+
+.var{
+
+     margin: 0 auto;
+ }
+
+asm{
+
+    margin: 0 auto;
+}
